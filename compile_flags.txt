@@ -1,0 +1,4 @@
+-Wall
+-Wextra
+-Wno-unused-value
+-pedantic
